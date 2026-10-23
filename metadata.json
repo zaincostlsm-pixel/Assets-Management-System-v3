@@ -1,0 +1,6 @@
+{
+  "name": "BAST & Inventory Asset Management",
+  "description": "Sistem Manajemen Aset & BAST terpadu dengan pencatatan transaksi BAST, monitoring inventaris horizontal, penarikan aset, manajemen foto Google Drive, ekspor Excel, dan integrasi Google Spreadsheet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
